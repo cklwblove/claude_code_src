@@ -38,6 +38,9 @@
 
 背景：2026.03.31 claude code 上 npm 上传了包含 claude code 源码的 `cli.js.map` 文件
 
+<img width="1497" height="242" alt="图片" src="https://github.com/user-attachments/assets/b1a01c8d-f14c-46d5-b6cb-4f5b4f90c9ab" />
+
+
 由于 2.1.88 版本已从[官方 npm](https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.88?activeTab=code) 下架，直接使用 `npm install @anthropic-ai/claude-code@2.1.88` 会报错，你可以通过腾讯缓存镜像进行安装：
 
 ```shell
